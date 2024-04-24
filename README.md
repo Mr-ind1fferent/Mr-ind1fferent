@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+- :orange_book: 技术博客：(https://www.zhihu.com/people/wsw-50-25)
 <!--
 **Mr-ind1fferent/Mr-ind1fferent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
